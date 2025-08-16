@@ -1,0 +1,2 @@
+# HUMAN-EMOTION-RECOGNITION-USING-EEG-SIGNALS-BASED-ON-SVM-CLASSIFIER
+This project uses EEG signals to recognize emotions such as happiness, sadness, fear, and calmness. By preprocessing EEG data and applying feature extraction,  SVM classifier is trained to identify emotional patterns. The system shows potential for applications in human-computer interaction, mental health monitoring, and emotion-aware technology.
